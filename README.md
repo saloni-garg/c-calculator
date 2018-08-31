@@ -1,1 +1,1 @@
-# c-calculator
+A simple calculator application written in C language which performs basic mathematical operations.
